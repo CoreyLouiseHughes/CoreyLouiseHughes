@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Data Analytics through a MSc in CCT Dublin
 - 💞️ I’m looking to collaborate on Datasets
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I work with students in Ireland and teach them all about STEM #MSDreamSpace
+- ⚡ Fun fact: I am on RTE Learn where I teach students about AI, and coding! #MSDreamSpace
 
 <!---
 CoreyLouiseHughes/CoreyLouiseHughes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
